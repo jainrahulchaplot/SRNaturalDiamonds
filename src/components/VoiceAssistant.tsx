@@ -37,8 +37,8 @@ export const VoiceAssistant: React.FC<VoiceAssistantProps> = ({
   }, []);
 
   return (
-    <div style={{ display: 'none' }}>
+    <div>
       <elevenlabs-convai agent-id="agent_0501k4aeyyn6ey99r1bh033z3m91"></elevenlabs-convai>
-            </div>
+    </div>
   );
 };
