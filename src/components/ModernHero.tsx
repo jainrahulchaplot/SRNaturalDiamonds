@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Play, Sparkles } from 'lucide-react';
+import { ArrowRight, Play, Sparkles, Wand2 } from 'lucide-react';
 import { TrustMetrics } from './TrustMetrics';
 
 interface ModernHeroProps {
@@ -210,10 +210,10 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
               
               <button 
                 onClick={onOpenVoiceAssistant}
-                className="group relative bg-transparent border-2 border-white text-white px-6 py-3 sm:px-8 sm:py-4 rounded-full text-base sm:text-lg font-semibold overflow-hidden transition-all duration-300 hover:bg-white hover:text-black hover:scale-105 hover:shadow-2xl min-h-[44px] w-full sm:w-auto max-w-xs"
+                className="group relative bg-transparent border-2 border-white text-white px-5 py-3 sm:px-8 sm:py-4 rounded-full text-base sm:text-lg font-semibold overflow-hidden transition-all duration-300 hover:bg-white hover:text-black hover:scale-105 hover:shadow-2xl min-h-[44px] w-full sm:w-auto max-w-xs mx-auto"
               >
-                <span className="relative z-10 flex items-center">
-                  <Sparkles className="mr-2 sm:mr-3 h-4 w-4 sm:h-5 sm:w-5" />
+                <span className="relative z-10 flex items-center justify-center">
+                  <Wand2 className="mr-2 sm:mr-3 h-4 w-4 sm:h-5 sm:w-5" />
                   Talk to Our Diamond Expert
                 </span>
                 {/* Shimmer effect */}
