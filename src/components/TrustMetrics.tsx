@@ -55,7 +55,7 @@ export const TrustMetrics: React.FC = () => {
             className="group relative"
           >
             {/* Glass card background with enhanced effects */}
-            <div className="relative bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl p-4 sm:p-6 hover:bg-white/10 transition-all duration-300 overflow-hidden floating-card glow-border">
+            <div className="relative bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl p-4 sm:p-6 hover:bg-white/10 transition-all duration-300 overflow-hidden floating-card glow-border h-32 sm:h-36 lg:h-40">
               {/* Animated background gradient */}
               <div className="absolute inset-0 bg-gradient-to-br from-white/5 via-transparent to-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
               
@@ -70,7 +70,7 @@ export const TrustMetrics: React.FC = () => {
               />
               
               {/* Content */}
-              <div className="relative z-10 text-center">
+              <div className="relative z-10 text-center flex flex-col justify-center h-full">
                 {/* Icon */}
                 <div className="flex justify-center mb-3 sm:mb-4">
                   <div className="w-12 h-12 sm:w-16 sm:h-16 bg-white/10 rounded-full flex items-center justify-center group-hover:bg-white/20 transition-all duration-300 group-hover:scale-110 animate-glow">
