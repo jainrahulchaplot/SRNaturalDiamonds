@@ -54,7 +54,7 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
               </div>
             </div>
 
-            <div className="order-1 lg:order-2 space-y-4 sm:space-y-8 pt-4 lg:pt-0 text-center">
+            <div className="order-1 lg:order-2 space-y-4 sm:space-y-8 pt-4 lg:pt-0 text-center lg:text-left">
               <div className="space-y-4 sm:space-y-6">
                 <div className="inline-flex items-center space-x-2 glass-card px-3 sm:px-4 py-2 rounded-full">
                   <Heart className="h-4 w-4 text-white animate-sparkle" />

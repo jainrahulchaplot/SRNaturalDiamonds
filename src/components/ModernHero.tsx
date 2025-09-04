@@ -146,8 +146,8 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
                 {/* Video overlay for better text readability */}
                 <div className="absolute inset-0 bg-black/20" />
                 
-                {/* Center play button overlay */}
-                <div className="absolute inset-0 flex items-center justify-center">
+                {/* Center play button overlay - Hidden */}
+                {/* <div className="absolute inset-0 flex items-center justify-center">
                   <motion.div
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.95 }}
@@ -155,7 +155,7 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
                   >
                     <Play className="h-6 w-6 sm:h-8 sm:w-8 text-white ml-1 group-hover:scale-110 transition-transform duration-300" />
                   </motion.div>
-                </div>
+                </div> */}
                 
                 {/* Video sparkles */}
                 <div className="absolute inset-0">

@@ -55,7 +55,7 @@ export const TrustMetrics: React.FC = () => {
             className="group relative"
           >
             {/* Glass card background with enhanced effects */}
-            <div className="relative bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl p-4 sm:p-6 hover:bg-white/10 transition-all duration-300 overflow-hidden floating-card glow-border h-32 sm:h-36 lg:h-40">
+            <div className="relative bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl p-4 sm:p-6 hover:bg-white/10 transition-all duration-300 overflow-hidden floating-card glow-border h-64 sm:h-72 lg:h-80">
               {/* Animated background gradient */}
               <div className="absolute inset-0 bg-gradient-to-br from-white/5 via-transparent to-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
               
