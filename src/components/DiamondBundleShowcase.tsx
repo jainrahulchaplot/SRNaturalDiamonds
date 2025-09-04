@@ -287,14 +287,14 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
                     </div>
                   </div>
                   
-                  <button
+                  {/* <button
                     className="w-full bg-white text-black py-4 rounded-xl font-bold text-lg hover:shadow-glow-lg transition-all duration-300 hover:-translate-y-0.5 btn-premium glow-border sparkle min-h-[44px] relative overflow-hidden group"
                   >
                     <span className="relative z-10 flex items-center justify-center">
                       Book Complete Collection
                       <ArrowRight className="ml-3 h-5 w-5 group-hover:translate-x-1 transition-transform duration-300" />
                     </span>
-                  </button>
+                  </button> */}
                 </div>
                 
                 {/* Product Grid */}
