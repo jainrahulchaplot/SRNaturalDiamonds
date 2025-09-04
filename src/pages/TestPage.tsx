@@ -43,7 +43,7 @@ export const TestPage: React.FC = () => {
         <div className="glass-card rounded-2xl p-8 mb-8 min-h-[400px] flex flex-col justify-center">
           <h2 className="text-2xl font-semibold text-white mb-6">AI Diamond Expert</h2>
           <div className="flex-1 flex items-center justify-center">
-            <elevenlabs-convai agent-id="agent_0501k4aeyyn6ey99r1bh033z3m91"></elevenlabs-convai>
+            <elevenlabs-convai agent-id="agent_3601k4b0wf67ewfsxg1a0gyjnhyn"></elevenlabs-convai>
           </div>
         </div>
 
