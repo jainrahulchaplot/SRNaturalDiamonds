@@ -7,6 +7,16 @@ export const TestPage: React.FC = () => {
     script.src = 'https://unpkg.com/@elevenlabs/convai-widget-embed';
     script.async = true;
     script.type = 'text/javascript';
+    
+    // Add error handling
+    script.onerror = () => {
+      console.error('Failed to load ElevenLabs ConvAI script');
+    };
+    
+    script.onload = () => {
+      console.log('ElevenLabs ConvAI script loaded successfully');
+    };
+    
     document.head.appendChild(script);
 
     // Cleanup function to remove script when component unmounts
@@ -30,13 +40,19 @@ export const TestPage: React.FC = () => {
         </p>
 
         {/* ElevenLabs ConvAI Widget */}
-        <div className="glass-card rounded-2xl p-8 mb-8">
+        <div className="glass-card rounded-2xl p-8 mb-8 min-h-[400px] flex flex-col justify-center">
           <h2 className="text-2xl font-semibold text-white mb-6">AI Diamond Expert</h2>
-          <elevenlabs-convai agent-id="agent_4801k423cktsehws7bd9ncbj0926"></elevenlabs-convai>
+          <div className="flex-1 flex items-center justify-center">
+            <elevenlabs-convai agent-id="agent_4801k423cktsehws7bd9ncbj0926"></elevenlabs-convai>
+          </div>
         </div>
 
-        <div className="text-sm text-gray-400">
+        <div className="text-sm text-gray-400 mb-4">
           <p>Powered by ElevenLabs ConvAI</p>
+        </div>
+        
+        <div className="text-xs text-gray-500">
+          <p>If you don't see the widget, try refreshing the page or check the browser console for errors.</p>
         </div>
       </div>
     </div>
