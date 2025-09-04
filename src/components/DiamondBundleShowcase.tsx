@@ -25,28 +25,28 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
       id: 'left-earring',
       name: 'Élan Grace Earring',
       price: 25000,
-      image: '/public/images/products/leftear.png',
+      image: '/images/products/leftear.png',
       description: 'Elegant left earring featuring a brilliant-cut natural diamond, handcrafted to complement your natural beauty with timeless sophistication'
     },
     {
       id: 'nose-piece',
       name: 'Heritage Nose Pin',
       price: 15000,
-      image: '/public/images/products/nosepiece.png',
+      image: '/images/products/nosepiece.png',
       description: 'Delicate nose pin adorned with a single natural diamond, celebrating traditional Indian elegance with modern refinement'
     },
     {
       id: 'necklace',
       name: 'Royal Élan Necklace',
       price: 45000,
-      image: '/public/images/products/necklace.png',
+      image: '/images/products/necklace.png',
       description: 'Stunning statement necklace featuring multiple natural diamonds in an intricate traditional design, perfect for special occasions'
     },
     {
       id: 'right-earring',
       name: 'Élan Grace Earring',
       price: 25000,
-      image: '/public/images/products/rightear.png',
+      image: '/images/products/rightear.png',
       description: 'Matching right earring with brilliant-cut natural diamond, completing the perfect pair for a harmonious and elegant look'
     }
   ];

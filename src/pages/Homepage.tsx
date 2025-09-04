@@ -31,7 +31,7 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
               <div className="relative">
                 <div className="aspect-square bg-obsidian-800 rounded-full overflow-hidden shadow-obsidian-lg glass-card glow-border floating-card">
                   <img 
-                    src="/public/images/hero/bothfounders.png"
+                    src="/images/hero/bothfounders.png"
                     alt="Founder of SR Natural Diamonds"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                     style={{ borderRadius: '20px' }}
