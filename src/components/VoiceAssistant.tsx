@@ -56,8 +56,8 @@ export const VoiceAssistant: React.FC<VoiceAssistantProps> = ({
   }, [isOpen]);
 
   return (
-    <div style={{ display: isOpen ? 'block' : 'none' }}>
+    <div>
       <elevenlabs-convai agent-id="agent_0501k4aeyyn6ey99r1bh033z3m91"></elevenlabs-convai>
-            </div>
+    </div>
   );
 };

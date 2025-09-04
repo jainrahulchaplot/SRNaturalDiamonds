@@ -186,10 +186,13 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
             
             <div className="pt-4 px-4">
               <button 
-                onClick={onOpenVoiceAssistant}
+                onClick={() => {
+                  const showcaseElement = document.getElementById('diamond-showcase');
+                  showcaseElement?.scrollIntoView({ behavior: 'smooth' });
+                }}
                 className="group inline-flex items-center justify-center bg-white text-black px-6 py-3 sm:px-8 sm:py-4 lg:px-10 lg:py-5 rounded-full text-base sm:text-lg lg:text-xl font-semibold hover:shadow-glow-lg transition-all duration-300 hover:scale-105 btn-premium glow-border sparkle min-h-[44px] w-full sm:w-auto max-w-sm"
               >
-                Talk to Our Diamond Expert
+                Explore Collection
                 <ArrowRight className="ml-2 sm:ml-3 h-5 w-5 sm:h-6 sm:w-6 group-hover:translate-x-1 transition-transform duration-300" />
               </button>
               

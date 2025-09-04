@@ -191,7 +191,7 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
-              className="flex flex-col sm:flex-row gap-4 sm:gap-8 justify-center items-center pt-4 sm:pt-6 pb-4 px-4"
+              className="flex justify-center items-center pt-4 sm:pt-6 pb-4 px-4"
             >
               <button 
                 onClick={() => {
@@ -203,18 +203,6 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
                 <span className="relative z-10 flex items-center justify-center">
                   Explore Collection
                   <ArrowRight className="ml-2 sm:ml-3 h-4 w-4 sm:h-5 sm:w-5 group-hover:translate-x-1 transition-transform duration-300" />
-                </span>
-                {/* Shimmer effect */}
-                <div className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-700 bg-gradient-to-r from-transparent via-white/30 to-transparent" />
-              </button>
-              
-              <button 
-                onClick={onOpenVoiceAssistant}
-                className="group relative bg-transparent border-2 border-white text-white px-5 py-3 sm:px-8 sm:py-4 rounded-full text-base sm:text-lg font-semibold overflow-hidden transition-all duration-300 hover:bg-white hover:text-black hover:scale-105 hover:shadow-2xl min-h-[44px] w-full sm:w-auto max-w-xs"
-              >
-                <span className="relative z-10 flex items-center justify-center">
-                  <Wand2 className="mr-2 sm:mr-3 h-4 w-4 sm:h-5 sm:w-5" />
-                  Talk to Our Diamond Expert
                 </span>
                 {/* Shimmer effect */}
                 <div className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-700 bg-gradient-to-r from-transparent via-white/30 to-transparent" />
