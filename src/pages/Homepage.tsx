@@ -192,6 +192,7 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
                 Talk to Our Diamond Expert
                 <ArrowRight className="ml-2 sm:ml-3 h-5 w-5 sm:h-6 sm:w-6 group-hover:translate-x-1 transition-transform duration-300" />
               </button>
+              
             </div>
           </div>
         </div>

@@ -45,3 +45,12 @@ interface Window {
   SpeechRecognition: typeof SpeechRecognition;
   webkitSpeechRecognition: typeof SpeechRecognition;
 }
+
+// ElevenLabs ConvAI custom element
+declare namespace JSX {
+  interface IntrinsicElements {
+    'elevenlabs-convai': {
+      'agent-id': string;
+    };
+  }
+}

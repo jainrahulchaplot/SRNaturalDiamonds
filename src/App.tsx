@@ -6,6 +6,7 @@ import { Footer } from './components/Footer';
 import { VoiceAssistant } from './components/VoiceAssistant';
 import { Homepage } from './pages/Homepage';
 import { ProductPage } from './pages/ProductPage';
+import { TestPage } from './pages/TestPage';
 
 function App() {
   const [isVoiceAssistantOpen, setIsVoiceAssistantOpen] = useState(false);
@@ -27,6 +28,7 @@ function App() {
               </>
             } />
             <Route path="/products" element={<ProductPage />} />
+            <Route path="/test" element={<TestPage />} />
           </Routes>
         </main>
         <Footer />
