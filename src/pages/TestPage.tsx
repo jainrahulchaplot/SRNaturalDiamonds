@@ -36,7 +36,7 @@ export const TestPage: React.FC = () => {
         </h1>
         
         <p className="text-lg sm:text-xl text-gray-300 mb-12 leading-relaxed">
-          This page is for testing the ElevenLabs ConvAI integration with SR Natural Diamonds.
+          This page is for testing the ElevenLabs ConvAI integration with SR Natural Diamond.
         </p>
 
         {/* ElevenLabs ConvAI Widget */}

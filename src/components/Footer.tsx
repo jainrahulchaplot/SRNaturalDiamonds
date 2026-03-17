@@ -27,7 +27,7 @@ export const Footer: React.FC = () => {
               </div>
               <div>
                 <span className="font-display text-lg sm:text-xl lg:text-2xl font-bold text-white group-hover:text-obsidian-200 transition-colors duration-300">
-                  SR Natural Diamonds
+                  SR Natural Diamond
                 </span>
                 <div className="text-xs sm:text-sm text-obsidian-400 font-medium -mt-1">
                   Legacy meets Luxury
@@ -71,7 +71,7 @@ export const Footer: React.FC = () => {
         
         <div className="mt-8 sm:mt-12 pt-6 sm:pt-8 border-t border-obsidian-800 text-center">
           <p className="text-xs sm:text-sm text-obsidian-400 px-4">
-            © 2025 SR Natural Diamonds. All rights reserved. Committed to authenticity and excellence.
+            © 2026 SR Natural Diamond. All rights reserved. Committed to authenticity and excellence.
           </p>
         </div>
       </div>

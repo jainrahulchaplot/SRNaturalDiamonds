@@ -15,7 +15,7 @@ export const Header: React.FC = () => {
             </div>
             <div>
               <span className="font-display text-2xl font-bold text-white group-hover:text-obsidian-200 transition-colors duration-300">
-                SR Natural Diamonds
+                SR Natural Diamond
               </span>
               <div className="text-xs text-obsidian-400 font-medium -mt-1">
                 Authentic Luxury

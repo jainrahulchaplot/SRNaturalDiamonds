@@ -1,6 +1,6 @@
 # SR Élan - Authentic Luxury Diamonds
 
-A modern, responsive React application showcasing SR Natural Diamonds' premium collection of authentic natural diamond jewelry. Built with cutting-edge web technologies and featuring an elegant, luxury-focused user interface.
+A modern, responsive React application showcasing SR Natural Diamond' premium collection of authentic natural diamond jewelry. Built with cutting-edge web technologies and featuring an elegant, luxury-focused user interface.
 
 ## 🌟 Overview
 
@@ -19,7 +19,7 @@ SR Élan is a sophisticated e-commerce platform that celebrates the perfect harm
 - **Complete Élan Collection**: Four-piece jewelry collection
   - Heritage Nose Pin with natural diamond
   - Élan Grace Earrings (matching pair)
-  - Royal Élan Statement Necklace
+  - Royal Élan Statement pendent
 - **High-Quality Product Images**: Professional product photography
 - **Detailed Descriptions**: Comprehensive product information
 - **Bundle Pricing**: Special collection pricing with savings
@@ -71,7 +71,7 @@ SR Elan/
 │   │   ├── products/
 │   │   │   ├── leftear.png
 │   │   │   ├── rightear.png
-│   │   │   ├── necklace.png
+│   │   │   ├── pendent.png
 │   │   │   └── nosepiece.png
 │   │   └── hero/
 │   │       └── bothfounders.png
@@ -231,7 +231,7 @@ SR Elan/
    - Matching pair design
    - Timeless sophistication
 
-3. **Royal Élan Necklace** - ₹45,000
+3. **Royal Élan pendent** - ₹45,000
    - Multiple natural diamonds
    - Statement piece design
    - Perfect for special occasions
@@ -316,7 +316,7 @@ VITE_APP_DESCRIPTION=Authentic Luxury Diamonds
 ## 📞 Support
 
 ### Contact Information
-- **Website**: [SR Natural Diamonds](https://srnaturaldiamonds.com)
+- **Website**: [SR Natural Diamond](https://srnaturaldiamonds.com)
 - **Email**: info@srnaturaldiamonds.com
 - **Phone**: +91-XXXX-XXXXXX
 
@@ -327,7 +327,7 @@ VITE_APP_DESCRIPTION=Authentic Luxury Diamonds
 
 ## 📄 License
 
-This project is proprietary software owned by SR Natural Diamonds. All rights reserved.
+This project is proprietary software owned by SR Natural Diamond. All rights reserved.
 
 ## 🙏 Acknowledgments
 

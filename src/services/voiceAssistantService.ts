@@ -29,7 +29,7 @@ export class VoiceAssistantService {
 
     // Product information queries
     if (lowerQuery.includes('product') || lowerQuery.includes('collection') || lowerQuery.includes('bundle')) {
-      return `Our Royal Heritage Collection is a curated bundle featuring ${jewelryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning necklace, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${jewelryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
+      return `Our Royal Heritage Collection is a curated bundle featuring ${jewelryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning pendent, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${jewelryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
     }
 
     // Diamond quality queries
@@ -58,7 +58,7 @@ export class VoiceAssistantService {
 
     // Brand USP queries
     if (lowerQuery.includes('why') || lowerQuery.includes('choose') || lowerQuery.includes('special') || lowerQuery.includes('different')) {
-      return `What makes SR Natural Diamonds special: ${this.knowledge.brandUSP.join(', ')}. We're committed to making authentic luxury accessible to every Indian woman.`;
+      return `What makes SR Natural Diamond special: ${this.knowledge.brandUSP.join(', ')}. We're committed to making authentic luxury accessible to every Indian woman.`;
     }
 
     // Authenticity queries
@@ -78,10 +78,10 @@ export class VoiceAssistantService {
 
     // Greeting responses
     if (lowerQuery.includes('hello') || lowerQuery.includes('hi') || lowerQuery.includes('namaste')) {
-      return "Namaste! Welcome to SR Natural Diamonds. I'm Jay, your personal jewelry assistant. I'm here to help you discover our beautiful collection of natural diamonds and answer any questions about quality, pricing, or our brand. How may I assist you today?";
+      return "Namaste! Welcome to SR Natural Diamond. I'm Jay, your personal jewelry assistant. I'm here to help you discover our beautiful collection of natural diamonds and answer any questions about quality, pricing, or our brand. How may I assist you today?";
     }
 
     // Default response
-    return "I'm here to help you with information about our diamond collection, quality details, pricing, or any questions about SR Natural Diamonds. You can ask me about our products, diamond specifications, authenticity, or how to make a purchase. What would you like to know?";
+    return "I'm here to help you with information about our diamond collection, quality details, pricing, or any questions about SR Natural Diamond. You can ask me about our products, diamond specifications, authenticity, or how to make a purchase. What would you like to know?";
   }
 }

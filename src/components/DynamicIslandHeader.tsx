@@ -64,7 +64,7 @@ export const DynamicIslandHeader: React.FC = () => {
             </div>
             <div className="block">
               <span className="text-sm sm:text-lg lg:text-xl font-bold text-white group-hover:text-gray-200 transition-colors duration-300">
-                SR Natural Diamonds
+                SR Natural Diamond
               </span>
               <div className="text-xs text-gray-400 font-medium -mt-1">
                 Legacy meets Luxury

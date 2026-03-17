@@ -37,10 +37,10 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
     },
     {
       id: 'necklace',
-      name: 'Royal Élan Necklace',
+      name: 'Royal Élan Pendent',
       price: 45000,
       image: '/images/products/necklace.png',
-      description: 'Stunning statement necklace featuring multiple natural diamonds in an intricate traditional design, perfect for special occasions'
+      description: 'Stunning statement pendent featuring multiple natural diamonds in an intricate traditional design, perfect for special occasions'
     },
     {
       id: 'right-earring',
@@ -87,7 +87,7 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
           
           <p className="text-lg sm:text-xl text-obsidian-200 max-w-3xl mx-auto leading-relaxed">
             Four exquisite pieces of natural diamond jewelry, each handcrafted with precision and passion. 
-            From the delicate Heritage Nose Pin to the majestic Royal Élan Necklace, this collection embodies 
+            From the delicate Heritage Earrings, Imperial Nose Pin to the majestic Royal Élan Pendent, this ENT Collection embodies 
             the perfect harmony of traditional Indian elegance and modern sophistication.
           </p>
         </motion.div>
