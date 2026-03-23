@@ -1,11 +1,11 @@
 # Public Assets Directory
 
-This directory contains all static assets for the SR Élan application.
+This directory contains all static assets for the SR ENT application.
 
 ## Directory Structure
 
 ### `/images/`
-- **`logos/`** - Brand logos, including the main SR Élan logo
+- **`logos/`** - Brand logos, including the main SR ENT logo
 - **`products/`** - Product images, jewelry photos, diamond showcases
 - **`hero/`** - Hero section images and banners
 - **`backgrounds/`** - Background images and textures
@@ -24,7 +24,7 @@ Assets in this directory are served directly by Vite and can be referenced in yo
 
 ```jsx
 // Images
-<img src="/images/logos/sr-elan-logo.svg" alt="SR Élan Logo" />
+<img src="/images/logos/sr-elan-logo.svg" alt="SR ENT Logo" />
 
 // Videos
 <video src="/videos/hero/diamond-showcase.mp4" />

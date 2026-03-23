@@ -29,7 +29,7 @@ export class VoiceAssistantService {
 
     // Product information queries
     if (lowerQuery.includes('product') || lowerQuery.includes('collection') || lowerQuery.includes('bundle')) {
-      return `Our Royal Heritage Collection is a curated bundle featuring ${jewelryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning pendent, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${jewelryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
+      return `Our Royal Heritage Collection is a curated bundle featuring ${jewelryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning Pendant, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${jewelryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
     }
 
     // Diamond quality queries

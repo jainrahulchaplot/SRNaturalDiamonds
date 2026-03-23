@@ -21,7 +21,7 @@ export const Footer: React.FC = () => {
               <div className="w-20 h-20 sm:w-24 sm:h-24 rounded-lg sm:rounded-xl overflow-hidden group-hover:scale-110 transition-transform duration-300">
                 <img
                   src="/images/logos/onlylogo.png"
-                  alt="SR Élan Logo"
+                  alt="SR ENT Logo"
                   className="w-full h-full object-contain"
                 />
               </div>

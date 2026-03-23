@@ -56,7 +56,7 @@ export const DynamicIslandHeader: React.FC = () => {
               <div className="w-16 h-12 sm:w-20 sm:h-16 rounded-lg overflow-hidden group-hover:scale-110 transition-transform duration-300 shadow-lg">
                 <img 
                   src="/images/logos/onlylogo.png" 
-                  alt="SR Élan Logo" 
+                  alt="SR ENT Logo" 
                   className="w-full h-full object-contain"
                 />
               </div>

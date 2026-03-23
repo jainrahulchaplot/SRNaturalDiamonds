@@ -3,7 +3,7 @@ import { Product } from '../types/Product';
 export const jewelryBundle: Product = {
   id: 'luxury-bundle-001',
   name: 'Royal Heritage Collection',
-  description: 'A curated collection of authentic natural diamonds crafted for the modern Indian woman. This exclusive bundle includes two elegant earrings, one delicate nose piece, and one stunning pendent.',
+  description: 'A curated collection of authentic natural diamonds crafted for the modern Indian woman. This exclusive bundle includes two elegant earrings, one delicate nose piece, and one stunning Pendant.',
   price: 85000,
   images: [
     'https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg?auto=compress&cs=tinysrgb&w=800',

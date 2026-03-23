@@ -32,7 +32,7 @@ export const ProductPage: React.FC = () => {
               <span className="text-xs sm:text-sm font-medium text-obsidian-200">Premium Collection</span>
             </div>
             <h1 className="font-display text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-3 sm:mb-4 sparkle px-4">
-            Élan Collection
+            ENT Collection
             </h1>
             <p className="text-base sm:text-lg lg:text-xl text-obsidian-200 max-w-2xl mx-auto px-4">
               Authentic natural diamonds crafted for the modern Indian woman

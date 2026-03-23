@@ -23,7 +23,7 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
   const products: Product[] = [
     {
       id: 'left-earring',
-      name: 'Élan Grace Earring',
+      name: 'ENT Grace Earring',
       price: 25000,
       image: '/images/products/leftear.png',
       description: 'Elegant left earring featuring a brilliant-cut natural diamond, handcrafted to complement your natural beauty with timeless sophistication'
@@ -37,14 +37,14 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
     },
     {
       id: 'necklace',
-      name: 'Royal Élan Pendent',
+      name: 'Royal ENT Pendant',
       price: 45000,
       image: '/images/products/necklace.png',
-      description: 'Stunning statement pendent featuring multiple natural diamonds in an intricate traditional design, perfect for special occasions'
+      description: 'Stunning statement Pendant featuring multiple natural diamonds in an intricate traditional design, perfect for special occasions'
     },
     {
       id: 'right-earring',
-      name: 'Élan Grace Earring',
+      name: 'ENT Grace Earring',
       price: 25000,
       image: '/images/products/rightear.png',
       description: 'Matching right earring with brilliant-cut natural diamond, completing the perfect pair for a harmonious and elegant look'
@@ -87,7 +87,7 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
           
           <p className="text-lg sm:text-xl text-obsidian-200 max-w-3xl mx-auto leading-relaxed">
             Four exquisite pieces of natural diamond jewelry, each handcrafted with precision and passion. 
-            From the delicate Heritage Earrings, Imperial Nose Pin to the majestic Royal Élan Pendent, this ENT Collection embodies 
+            From the delicate Heritage Earrings, Imperial Nose Pin to the majestic Royal ENT Pendant, this ENT Collection embodies 
             the perfect harmony of traditional Indian elegance and modern sophistication.
           </p>
         </motion.div>

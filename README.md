@@ -1,10 +1,10 @@
-# SR Élan - Authentic Luxury Diamonds
+# SR ENT - Authentic Luxury Diamonds
 
 A modern, responsive React application showcasing SR Natural Diamond' premium collection of authentic natural diamond jewelry. Built with cutting-edge web technologies and featuring an elegant, luxury-focused user interface.
 
 ## 🌟 Overview
 
-SR Élan is a sophisticated e-commerce platform that celebrates the perfect harmony of traditional Indian elegance and modern sophistication. The application showcases the complete Élan Collection, featuring four exquisite pieces of natural diamond jewelry handcrafted with precision and passion.
+SR ENT is a sophisticated e-commerce platform that celebrates the perfect harmony of traditional Indian elegance and modern sophistication. The application showcases the complete ENT Collection, featuring four exquisite pieces of natural diamond jewelry handcrafted with precision and passion.
 
 ## ✨ Features
 
@@ -16,10 +16,10 @@ SR Élan is a sophisticated e-commerce platform that celebrates the perfect harm
 - **Interactive Elements**: Hover effects, sparkle animations, and micro-interactions
 
 ### 🛍️ Product Showcase
-- **Complete Élan Collection**: Four-piece jewelry collection
+- **Complete ENT Collection**: Four-piece jewelry collection
   - Heritage Nose Pin with natural diamond
-  - Élan Grace Earrings (matching pair)
-  - Royal Élan Statement pendent
+  - ENT Grace Earrings (matching pair)
+  - Royal ENT Statement Pendant
 - **High-Quality Product Images**: Professional product photography
 - **Detailed Descriptions**: Comprehensive product information
 - **Bundle Pricing**: Special collection pricing with savings
@@ -62,7 +62,7 @@ SR Élan is a sophisticated e-commerce platform that celebrates the perfect harm
 ## 📁 Project Structure
 
 ```
-SR Elan/
+SR ENT/
 ├── public/
 │   ├── images/
 │   │   ├── logos/
@@ -71,7 +71,7 @@ SR Elan/
 │   │   ├── products/
 │   │   │   ├── leftear.png
 │   │   │   ├── rightear.png
-│   │   │   ├── pendent.png
+│   │   │   ├── Pendant.png
 │   │   │   └── nosepiece.png
 │   │   └── hero/
 │   │       └── bothfounders.png
@@ -111,7 +111,7 @@ SR Elan/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd "SR Elan"
+   cd "SR ENT"
    ```
 
 2. **Install dependencies**
@@ -220,18 +220,18 @@ SR Elan/
 
 ## 🛍️ Product Information
 
-### Élan Collection
+### ENT Collection
 1. **Heritage Nose Pin** - ₹15,000
    - Single natural diamond
    - Traditional Indian design
    - 18K gold setting
 
-2. **Élan Grace Earrings** - ₹25,000 (each)
+2. **ENT Grace Earrings** - ₹25,000 (each)
    - Brilliant-cut natural diamonds
    - Matching pair design
    - Timeless sophistication
 
-3. **Royal Élan pendent** - ₹45,000
+3. **Royal ENT Pendant** - ₹45,000
    - Multiple natural diamonds
    - Statement piece design
    - Perfect for special occasions
@@ -294,7 +294,7 @@ npm run build
 ### Environment Variables
 Create a `.env` file for environment-specific configurations:
 ```env
-VITE_APP_TITLE=SR Élan
+VITE_APP_TITLE=SR ENT
 VITE_APP_DESCRIPTION=Authentic Luxury Diamonds
 ```
 
@@ -338,6 +338,6 @@ This project is proprietary software owned by SR Natural Diamond. All rights res
 
 ---
 
-**SR Élan** - Where Legacy Meets Luxury ✨
+**SR ENT** - Where Legacy Meets Luxury ✨
 
 *Authentic Natural Diamonds for Every Woman in India*
