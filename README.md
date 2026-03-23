@@ -67,7 +67,7 @@ SR Elan/
 │   ├── images/
 │   │   ├── logos/
 │   │   │   ├── onlylogo.png
-│   │   │   └── SR_Elan_logo.png
+│   │   │   └── sr-oglogo.png
 │   │   ├── products/
 │   │   │   ├── leftear.png
 │   │   │   ├── rightear.png
