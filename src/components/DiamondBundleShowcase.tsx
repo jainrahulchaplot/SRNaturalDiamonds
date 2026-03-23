@@ -86,8 +86,8 @@ export const DiamondBundleShowcase: React.FC<DiamondBundleShowcaseProps> = ({
           </h2>
           
           <p className="text-lg sm:text-xl text-obsidian-200 max-w-3xl mx-auto leading-relaxed">
-            Four exquisite pieces of natural diamond jewelry, each handcrafted with precision and passion. 
-            From the delicate Heritage Earrings, Imperial Nose Pin to the majestic Majestic Royal Bliss Pendant, this ENT Collection embodies 
+            Four exquisite pieces of natural diamond Jewellery, each handcrafted with precision and passion. 
+            From the delicate Heritage Earrings, Imperial Nose Pin to the Majestic Royal Bliss Pendant, this ENT Collection embodies 
             the perfect harmony of traditional Indian elegance and modern sophistication.
           </p>
         </motion.div>
