@@ -17,9 +17,9 @@ SR ENT is a sophisticated e-commerce platform that celebrates the perfect harmon
 
 ### 🛍️ Product Showcase
 - **Complete ENT Collection**: Four-piece jewelry collection
-  - Heritage Nose Pin with natural diamond
-  - ENT Grace Earrings (matching pair)
-  - Royal ENT Statement Pendant
+  - Imperial Nose Pin with natural diamond
+  - Heritage Earrings (matching pair)
+  - Majestic Royal Bliss Pendant
 - **High-Quality Product Images**: Professional product photography
 - **Detailed Descriptions**: Comprehensive product information
 - **Bundle Pricing**: Special collection pricing with savings
@@ -221,17 +221,17 @@ SR ENT/
 ## 🛍️ Product Information
 
 ### ENT Collection
-1. **Heritage Nose Pin** - ₹15,000
+1. **Imperial Nose Pin** - ₹15,000
    - Single natural diamond
    - Traditional Indian design
    - 18K gold setting
 
-2. **ENT Grace Earrings** - ₹25,000 (each)
+2. **Heritage Earrings** - ₹25,000 (each)
    - Brilliant-cut natural diamonds
    - Matching pair design
    - Timeless sophistication
 
-3. **Royal ENT Pendant** - ₹45,000
+3. **Majestic Royal Bliss Pendant** - ₹45,000
    - Multiple natural diamonds
    - Statement piece design
    - Perfect for special occasions
