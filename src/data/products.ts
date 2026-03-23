@@ -1,6 +1,6 @@
 import { Product } from '../types/Product';
 
-export const jewelryBundle: Product = {
+export const JewelleryBundle: Product = {
   id: 'luxury-bundle-001',
   name: 'Royal Heritage Collection',
   description: 'A curated collection of authentic natural diamonds crafted for the modern Indian woman. This exclusive bundle includes two elegant earrings, one delicate nose piece, and one stunning Pendant.',
@@ -16,7 +16,7 @@ export const jewelryBundle: Product = {
     'Traditional Indian craftsmanship',
     'Premium 18K gold setting',
     'Lifetime authenticity guarantee',
-    'Complimentary jewelry box',
+    'Complimentary Jewellery box',
     'Free professional cleaning service'
   ],
   specifications: {

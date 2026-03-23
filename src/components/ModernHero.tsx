@@ -119,7 +119,7 @@ export const ModernHero: React.FC<ModernHeroProps> = ({ onOpenVoiceAssistant }) 
               transition={{ duration: 1, delay: 1.3 }}
               className="text-lg sm:text-xl lg:text-2xl text-gray-200 max-w-4xl mx-auto leading-relaxed font-light px-4 pb-5"
             >
-              Discover authentic luxury with our handcrafted natural diamond jewelry, 
+              Discover authentic luxury with our handcrafted natural diamond Jewellery, 
               designed to celebrate the elegance and strength of Indian women.
             </motion.p>
 

@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import { Star, Shield, Gem, ArrowRight, Check, Sparkles, Award, Heart } from 'lucide-react';
-import { jewelryBundle } from '../data/products';
+import { JewelleryBundle } from '../data/products';
 import { DiamondParticles } from '../components/DiamondParticles';
 import { SparkleEffect } from '../components/SparkleEffect';
 
 export const ProductPage: React.FC = () => {
   const [selectedImage, setSelectedImage] = useState(0);
   const [sparkleProduct, setSparkleProduct] = useState(false);
-  const product = jewelryBundle;
+  const product = JewelleryBundle;
 
   return (
     <div className="min-h-screen bg-obsidian-gradient">

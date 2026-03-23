@@ -1,5 +1,5 @@
 import { ProductKnowledge } from '../types/VoiceAssistant';
-import { jewelryBundle } from '../data/products';
+import { JewelleryBundle } from '../data/products';
 
 export class VoiceAssistantService {
   private knowledge: ProductKnowledge;
@@ -29,7 +29,7 @@ export class VoiceAssistantService {
 
     // Product information queries
     if (lowerQuery.includes('product') || lowerQuery.includes('collection') || lowerQuery.includes('bundle')) {
-      return `Our Royal Heritage Collection is a curated bundle featuring ${jewelryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning Pendant, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${jewelryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
+      return `Our Royal Heritage Collection is a curated bundle featuring ${JewelleryBundle.name}. It includes two elegant earrings, one delicate nose piece, and one stunning Pendant, all crafted with natural diamonds and 18K gold. The collection is priced at ₹${JewelleryBundle.price.toLocaleString('en-IN')} and comes with a lifetime authenticity guarantee.`;
     }
 
     // Diamond quality queries
@@ -68,17 +68,17 @@ export class VoiceAssistantService {
 
     // Try-on queries
     if (lowerQuery.includes('try') || lowerQuery.includes('fitting') || lowerQuery.includes('size')) {
-      return "We offer virtual try-on experiences and can schedule in-person consultations in Mumbai. Our jewelry is designed with adjustable settings to ensure the perfect fit for every customer.";
+      return "We offer virtual try-on experiences and can schedule in-person consultations in Mumbai. Our Jewellery is designed with adjustable settings to ensure the perfect fit for every customer.";
     }
 
     // Purchase/checkout queries
     if (lowerQuery.includes('buy') || lowerQuery.includes('purchase') || lowerQuery.includes('order') || lowerQuery.includes('checkout')) {
-      return "To purchase our Royal Heritage Collection, you can click the 'Inquire Now' button on our product page, or I can connect you with our personal jewelry consultant for a customized experience. We offer flexible payment options and nationwide delivery.";
+      return "To purchase our Royal Heritage Collection, you can click the 'Inquire Now' button on our product page, or I can connect you with our personal Jewellery consultant for a customized experience. We offer flexible payment options and nationwide delivery.";
     }
 
     // Greeting responses
     if (lowerQuery.includes('hello') || lowerQuery.includes('hi') || lowerQuery.includes('namaste')) {
-      return "Namaste! Welcome to SR Natural Diamond. I'm Jay, your personal jewelry assistant. I'm here to help you discover our beautiful collection of natural diamonds and answer any questions about quality, pricing, or our brand. How may I assist you today?";
+      return "Namaste! Welcome to SR Natural Diamond. I'm Jay, your personal Jewellery assistant. I'm here to help you discover our beautiful collection of natural diamonds and answer any questions about quality, pricing, or our brand. How may I assist you today?";
     }
 
     // Default response

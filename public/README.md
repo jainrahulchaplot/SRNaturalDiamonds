@@ -6,7 +6,7 @@ This directory contains all static assets for the SR ENT application.
 
 ### `/images/`
 - **`logos/`** - Brand logos, including the main SR ENT logo
-- **`products/`** - Product images, jewelry photos, diamond showcases
+- **`products/`** - Product images, Jewellery photos, diamond showcases
 - **`hero/`** - Hero section images and banners
 - **`backgrounds/`** - Background images and textures
 

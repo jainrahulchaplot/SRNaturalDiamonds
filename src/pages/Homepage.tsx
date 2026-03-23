@@ -63,13 +63,13 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
 
                 <div className="space-y-4 sm:space-y-6 text-lg sm:text-xl text-obsidian-200 leading-relaxed">
                   <p>
-                    At the heart of SR Natural Diamond is a legacy carried forward with pride and purpose. Our founder, a seasoned leader from the prestigious SR and Sons family, brings decades of business excellence and deep cultural values to a new frontier of luxury jewelry.
+                    At the heart of SR Natural Diamond is a legacy carried forward with pride and purpose. Our founder, a seasoned leader from the prestigious SR and Sons family, brings decades of business excellence and deep cultural values to a new frontier of luxury Jewellery.
                   </p>
                   <p>
                     As a respected voice within the Jain community and beyond, he embodies the ideals of trust, simplicity, and timeless grace. His journey is not just about launching a brand, but about reimagining how diamonds can be part of every Indian woman's life just not as a status symbol, but as a symbol of strength and self-worth.
                   </p>
                   <p>
-                    This vision powers everything we do: to deliver unparalleled craftsmanship, fair value, and emotional resonance with every piece of jewelry that leaves our hands.
+                    This vision powers everything we do: to deliver unparalleled craftsmanship, fair value, and emotional resonance with every piece of Jewellery that leaves our hands.
                   </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ export const Homepage: React.FC<HomepageProps> = ({ onOpenVoiceAssistant }) => {
               </div>
               <h3 className="font-display text-lg sm:text-xl lg:text-2xl font-semibold text-white mb-3 sm:mb-4">Cultural Heritage</h3>
               <p className="text-sm sm:text-base text-obsidian-200 leading-relaxed">
-                Each piece honors traditional Indian jewelry artistry while 
+                Each piece honors traditional Indian Jewellery artistry while 
                 incorporating contemporary design elements.
               </p>
             </div>

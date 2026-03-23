@@ -1,10 +1,10 @@
 # SR ENT - Authentic Luxury Diamonds
 
-A modern, responsive React application showcasing SR Natural Diamond' premium collection of authentic natural diamond jewelry. Built with cutting-edge web technologies and featuring an elegant, luxury-focused user interface.
+A modern, responsive React application showcasing SR Natural Diamond' premium collection of authentic natural diamond Jewellery. Built with cutting-edge web technologies and featuring an elegant, luxury-focused user interface.
 
 ## 🌟 Overview
 
-SR ENT is a sophisticated e-commerce platform that celebrates the perfect harmony of traditional Indian elegance and modern sophistication. The application showcases the complete ENT Collection, featuring four exquisite pieces of natural diamond jewelry handcrafted with precision and passion.
+SR ENT is a sophisticated e-commerce platform that celebrates the perfect harmony of traditional Indian elegance and modern sophistication. The application showcases the complete ENT Collection, featuring four exquisite pieces of natural diamond Jewellery handcrafted with precision and passion.
 
 ## ✨ Features
 
@@ -16,7 +16,7 @@ SR ENT is a sophisticated e-commerce platform that celebrates the perfect harmon
 - **Interactive Elements**: Hover effects, sparkle animations, and micro-interactions
 
 ### 🛍️ Product Showcase
-- **Complete ENT Collection**: Four-piece jewelry collection
+- **Complete ENT Collection**: Four-piece Jewellery collection
   - Imperial Nose Pin with natural diamond
   - Heritage Earrings (matching pair)
   - Majestic Royal Bliss Pendant
@@ -331,7 +331,7 @@ This project is proprietary software owned by SR Natural Diamond. All rights res
 
 ## 🙏 Acknowledgments
 
-- **Design Inspiration**: Traditional Indian jewelry craftsmanship
+- **Design Inspiration**: Traditional Indian Jewellery craftsmanship
 - **Technology**: Modern web development best practices
 - **Photography**: Professional product photography
 - **Branding**: Legacy meets luxury philosophy
