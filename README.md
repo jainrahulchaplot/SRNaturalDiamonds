@@ -316,8 +316,8 @@ VITE_APP_DESCRIPTION=Authentic Luxury Diamonds
 ## 📞 Support
 
 ### Contact Information
-- **Website**: [SR Natural Diamond](https://srnaturaldiamonds.com)
-- **Email**: info@srnaturaldiamonds.com
+- **Website**: [SR Natural Diamond](https://srnaturaldiamond.com)
+- **Email**: srsonsros@gmail.com
 - **Phone**: +91-XXXX-XXXXXX
 
 ### Business Hours
